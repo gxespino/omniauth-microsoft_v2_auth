@@ -10,7 +10,7 @@ Can be used to authenticate with Microsoft Services and get a token for the Micr
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'omniauth-microsoft_v3_auth', :git => 'git://github.com/pairshaped/omniauth-microsoft_v2_auth.git'
+gem 'omniauth-microsoft_v2_auth', :git => 'git://github.com/pairshaped/omniauth-microsoft_v2_auth.git'
 ```
 
 And then execute:
