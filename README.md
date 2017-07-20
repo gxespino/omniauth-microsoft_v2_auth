@@ -10,16 +10,12 @@ Can be used to authenticate with Microsoft Services and get a token for the Micr
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'omniauth-microsoft_v2_auth'
+gem 'omniauth-microsoft_v3_auth', :git => 'git://github.com/pairshaped/omniauth-microsoft_v2_auth.git'
 ```
 
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install omniauth-microsoft_v2_auth
 
 ## Usage
 
